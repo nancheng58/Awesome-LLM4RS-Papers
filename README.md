@@ -14,7 +14,7 @@ Welcome to open an issue or make a pull request!
 + Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models, arvix 2023, [[paper]](https://arxiv.org/abs/2305.05973).
 + Uncovering ChatGPT's Capabilities in Recommender Systems, arvix 2023, [[paper]](https://arxiv.org/abs/2305.02182),[[code]](https://github.com/rainym00d/LLM4RS).
 + Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, arvix 2023, [[paper]](https://arxiv.org/abs/2305.07001).
-
++ A First Look at LLM-Powered Generative News Recommendation, arvix 2023, [[paper]](https://arxiv.org/abs/2305.06566).
 ## Universal Representation Learning
 **Github Repository "Universal_user_representations for recommendation" [[link]](https://github.com/fajieyuan/universal_user_representation)**.
 + ID-Agnostic User Behavior Pre-training for Sequential Recommendation, CCIR 2022, [[paper]](https://arxiv.org/abs/2206.02323).
