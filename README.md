@@ -13,6 +13,7 @@ Welcome to open an issue or make a pull request!
 + TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, arvix 2023, [[paper]](https://arxiv.org/abs/2305.00447), [[code]](https://github.com/SAI990323/TALLRec).
 + Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models, arvix 2023, [[paper]](https://arxiv.org/abs/2305.05973).
 + Uncovering ChatGPT's Capabilities in Recommender Systems, arvix 2023, [[paper]](https://arxiv.org/abs/2305.02182),[[code]](https://github.com/rainym00d/LLM4RS).
++ Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, arvix 2023, [[paper]](https://arxiv.org/abs/2305.07001).
 
 ## Universal Representation Learning
 **Github Repository "Universal_user_representations for recommendation" [[link]](https://github.com/fajieyuan/universal_user_representation)**.
