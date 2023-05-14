@@ -1,7 +1,7 @@
 # Awesome-LLM4RS-Papers
 This is a paper list about Large Language Model-enhanced Recommender System. It also contains some related works.
 
-**Keywords**: *recommendation system, large language model*
+**Keywords**: *recommendation system, large language models*
 
 Welcome to open an issue or make a pull request!
 
