@@ -18,7 +18,7 @@ Welcome to open an issue or make a pull request!
 + Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.04518).
 + Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03153).
 + Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.06474).
-+ Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.08845).
++ Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.08845), [[code]](https://github.com/RUCAIBox/LLMRank)
 
 ## Universal Representation Learning
 **Github Repository "Universal_user_representations for recommendation" [[link]](https://github.com/fajieyuan/universal_user_representation)**.
@@ -35,4 +35,4 @@ Welcome to open an issue or make a pull request!
 + Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arvix 2022, [[paper]](https://arxiv.org/abs/2203.13366),[[code]](https://github.com/jeykigung/P5).
 + Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective, SIGIR 2022, [[paper]](https://arxiv.org/abs/2206.07353).
 + M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems, arvix 2022, [[paper]](https://arxiv.org/abs/2205.08084).
-+ Personalized Prompt for Sequential Recommendation, arvix 2022, [[paper]](https://arxiv.org/abs/2205.09666), [[code]](https://github.com/RUCAIBox/LLMRank).
++ Personalized Prompt for Sequential Recommendation, arvix 2022, [[paper]](https://arxiv.org/abs/2205.09666).
