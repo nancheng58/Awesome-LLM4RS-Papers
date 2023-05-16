@@ -35,4 +35,4 @@ Welcome to open an issue or make a pull request!
 + Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arvix 2022, [[paper]](https://arxiv.org/abs/2203.13366),[[code]](https://github.com/jeykigung/P5).
 + Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective, SIGIR 2022, [[paper]](https://arxiv.org/abs/2206.07353).
 + M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems, arvix 2022, [[paper]](https://arxiv.org/abs/2205.08084).
-+ Personalized Prompt for Sequential Recommendation, arvix 2022, [[paper]](https://arxiv.org/abs/2205.09666).
++ Personalized Prompt for Sequential Recommendation, arvix 2022, [[paper]](https://arxiv.org/abs/2205.09666), [[code]](https://github.com/RUCAIBox/LLMRank).
