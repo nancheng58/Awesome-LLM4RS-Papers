@@ -21,6 +21,7 @@ Welcome to open an issue or make a pull request!
 + Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.08845), [[code]](https://github.com/RUCAIBox/LLMRank).
 + Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07609), [[code]](https://github.com/jizhi-zhang/FaiRLLM).
 + Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07961).
++ Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.13112), [[code]](https://github.com/RUCAIBox/iEvaLM-CRS).
 
 ## Universal Representation Learning
 **Github Repository "Universal_user_representations for recommendation" [[link]](https://github.com/fajieyuan/universal_user_representation)**.
