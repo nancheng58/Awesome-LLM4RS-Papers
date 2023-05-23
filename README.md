@@ -16,7 +16,7 @@ Welcome to open an issue or make a pull request!
 + Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07001).
 + A First Look at LLM-Powered Generative News Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.06566).
 + Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.04518).
-+ Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03153).
++ Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03153), [[code]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec).
 + Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.06474).
 + Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.08845), [[code]](https://github.com/RUCAIBox/LLMRank).
 + Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07609), [[code]](https://github.com/jizhi-zhang/FaiRLLM).
