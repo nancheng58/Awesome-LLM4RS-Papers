@@ -40,6 +40,7 @@ Welcome to open an issue or make a pull request!
 
 ## Generative Retrieval
 + Recommender Systems with Generative Retrieval, arvix 2023, [[paper]](https://arxiv.org/abs/2305.05065).
++ Generative Sequential Recommendation with GPTRec, SIGIR 2023 workshop, [[paper]](https://arxiv.org/abs/2306.11114).
 
 ## Pretrain Language Model and Prompt Learing
 **Survey paper: Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2302.03735).**
