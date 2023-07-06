@@ -30,11 +30,11 @@ Welcome to open an issue or make a pull request!
 ### Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
 + How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.05817).
-+ Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.15036).
   
 ### Perspective
 + Where to Go Next for Recommender Systems? ID- vs.Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf).[[code]](https://github.com/westlake-repl/IDvs.MoRec)
 + Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf).
++ Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.15036).
 
 ## Universal Representation Learning
 **Github Repository "Universal_user_representations for recommendation" [[link]](https://github.com/fajieyuan/universal_user_representation)**.
