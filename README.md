@@ -27,10 +27,14 @@ Welcome to open an issue or make a pull request!
 + A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10702).
 + Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10933).
 + Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
++ GenRec: Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
++ Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
++ Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.05722).
 ### Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
 + How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.05817).
-  
++ Recommender Systems in the Era of Large Language Models (LLMs) arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02046).
+
 ### Perspective
 + Where to Go Next for Recommender Systems? ID- vs.Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf).[[code]](https://github.com/westlake-repl/IDvs.MoRec)
 + Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf).
