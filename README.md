@@ -30,6 +30,7 @@ Welcome to open an issue or make a pull request!
 + GenRec: Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
 + Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
 + Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.05722).
+
 ### Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
 + How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.05817).
@@ -55,9 +56,12 @@ Welcome to open an issue or make a pull request!
 + Recommender Systems with Generative Retrieval, arvix 2023, [[paper]](https://arxiv.org/abs/2305.05065).
 + Generative Sequential Recommendation with GPTRec, SIGIR 2023 workshop, [[paper]](https://arxiv.org/abs/2306.11114).
 
-## Pretrain Language Model and Prompt Learing
+## Pretrain Language Model and Prompt Learning
 **Survey paper: Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2302.03735).**
 + Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5), arvix 2022, [[paper]](https://arxiv.org/abs/2203.13366),[[code]](https://github.com/jeykigung/P5).
 + Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective, SIGIR 2022, [[paper]](https://arxiv.org/abs/2206.07353).
 + M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems, arvix 2022, [[paper]](https://arxiv.org/abs/2205.08084).
 + Personalized Prompt for Sequential Recommendation, arvix 2022, [[paper]](https://arxiv.org/abs/2205.09666).
+
+## Dataset
++ Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation, arvix 2023, [[paper]](https://arxiv.org/abs/2307.09688), [[KDD Cup 2023]](https://kddcup23.github.io/).
