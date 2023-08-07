@@ -30,6 +30,8 @@ Welcome to open an issue or make a pull request!
 + GenRec: Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
 + Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
 + Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.05722).
++ Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, RecSys 2023, [[paper]](https://arxiv.org/abs/2307.14225).
++ LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.15780).
 
 ### Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
