@@ -8,7 +8,6 @@ Welcome to open an issue or make a pull request!
 ## Paper List
 + Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System, arxiv 2023, [[paper]](https://arxiv.org/abs/2303.14524).
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
-+ Is ChatGPT a Good Recommender? A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.10149).
 + TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023, [[paper]](https://arxiv.org/abs/2305.00447), [[code]](https://github.com/SAI990323/TALLRec).
 + Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.05973).
 + Uncovering ChatGPT's Capabilities in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.02182),[[code]](https://github.com/rainym00d/LLM4RS).
@@ -45,6 +44,7 @@ Welcome to open an issue or make a pull request!
 + Where to Go Next for Recommender Systems? ID- vs.Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf).[[code]](https://github.com/westlake-repl/IDvs.MoRec)
 + Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf).
 + Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.15036).
++ Is ChatGPT a Good Recommender? A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.10149).
 
 ## Universal Representation Learning
 **Github Repository: "Universal_user_representations for recommendation" [[link]](https://github.com/fajieyuan/universal_user_representation)**.
