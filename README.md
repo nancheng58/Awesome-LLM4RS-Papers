@@ -33,6 +33,7 @@ Welcome to open an issue or make a pull request!
 + A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
 + LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12241),[[code]](https://github.com/williamliujl/LLMRec).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
++ Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
 
 ### Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
@@ -45,7 +46,7 @@ Welcome to open an issue or make a pull request!
 + Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf).
 + Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.15036).
 + Is ChatGPT a Good Recommender? A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.10149).
-
++ Evaluating ChatGPT as a Recommender System: A Rigorous Approach, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.03613).
 ## Universal Representation Learning
 **Github Repository: "Universal_user_representations for recommendation" [[link]](https://github.com/fajieyuan/universal_user_representation)**.
 + Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [[paper]](https://arxiv.org/abs/2001.04253). [[code]](https://github.com/fajieyuan/SIGIR2020_peterrec)
