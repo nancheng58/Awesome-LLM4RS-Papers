@@ -68,6 +68,6 @@ Welcome to open an issue or make a pull request!
 + Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective, SIGIR 2022, [[paper]](https://arxiv.org/abs/2206.07353).
 + M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems, arvix 2022, [[paper]](https://arxiv.org/abs/2205.08084).
 + Personalized Prompt for Sequential Recommendation, arvix 2022, [[paper]](https://arxiv.org/abs/2205.09666).
-
++ Knowledge Prompt-tuning for Sequential Recommendation, ACM MM 2023, [[paper]](https://arxiv.org/abs/2308.08459), [[code]](https://github.com/zhaijianyang/KP4SR).
 ## Dataset
 + Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation, arvix 2023, [[paper]](https://arxiv.org/abs/2307.09688), [[KDD Cup 2023]](https://kddcup23.github.io/).
