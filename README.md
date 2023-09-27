@@ -34,6 +34,7 @@ Welcome to open an issue or make a pull request!
 + LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12241),[[code]](https://github.com/williamliujl/LLMRec).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
 + Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
++ Prompt Distillation for Efficient LLM-based Recommendation, CIKM 2023, [[paper]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf).
 
 ### Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
