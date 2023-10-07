@@ -72,3 +72,4 @@ Welcome to open an issue or make a pull request!
 + Knowledge Prompt-tuning for Sequential Recommendation, ACM MM 2023, [[paper]](https://arxiv.org/abs/2308.08459), [[code]](https://github.com/zhaijianyang/KP4SR).
 ## Dataset
 + Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation, arvix 2023, [[paper]](https://arxiv.org/abs/2307.09688), [[KDD Cup 2023]](https://kddcup23.github.io/).
++ PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [[paper]](https://arxiv.org/abs/2309.06789), [[link]](https://github.com/westlake-repl/PixelRec).
