@@ -37,17 +37,18 @@ Welcome to open an issue or make a pull request!
 + LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.15780).
 + A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
 + LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12241),[[code]](https://github.com/williamliujl/LLMRec).
-+ RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
 + Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
 + Prompt Distillation for Efficient LLM-based Recommendation, CIKM 2023, [[paper]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf), [[code]](https://github.com/lileipisces/POD).
 + Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [[paper]](https://arxiv.org/abs/2308.10053), [[code]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys).
 + Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09874).
 + Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
 
-### Agent
+### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
++ RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
 + On Generative Agents in Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.10108), [[code]](https://github.com/LehengTHU/Agent4Rec).
 + AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09233).
+
 
 ### Perspective
 + Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03516).
