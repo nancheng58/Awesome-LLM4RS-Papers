@@ -5,7 +5,7 @@ This is a paper list about Large Language Model-enhanced Recommender System. It 
 
 Welcome to open an issue or make a pull request!
 
-### Survey
+## Survey
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
 + How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.05817).
 + Recommender Systems in the Era of Large Language Models (LLMs), arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02046).
@@ -28,7 +28,6 @@ Welcome to open an issue or make a pull request!
 + PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07622).
 + Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.01475).
 + A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10702).
-+ Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10933).
 + Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
 + GenRec: Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
 + Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
@@ -49,6 +48,9 @@ Welcome to open an issue or make a pull request!
 + On Generative Agents in Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.10108), [[code]](https://github.com/LehengTHU/Agent4Rec).
 + AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09233).
 
+### Knowledge Augmentation
++ Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.10835). 
++ Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10933).
 
 ### Perspective
 + Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03516).
