@@ -41,6 +41,7 @@ Welcome to open an issue or make a pull request!
 + Large Language Models as Zero-Shot Conversational Recommenders, CIKM 2023, [[paper]](https://arxiv.org/abs/2308.10053), [[code]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys).
 + Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09874).
 + Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
++ LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [[paper]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf), [[code]](https://github.com/Yueeeeeeee/LlamaRec).
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
@@ -53,6 +54,7 @@ Welcome to open an issue or make a pull request!
 + Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10933).
 
 ### Perspective
++ Language models as recommender systems: Evaluations and limitations, NeurIPS Workshop 2021, [[paper]](https://openreview.net/forum?id=hFx3fY7-m9b).
 + Generative Recommendation: Towards Next-generation Recommender Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03516).
 + Where to Go Next for Recommender Systems? ID- vs.Modality-based recommender models revisited, SIGIR 2023, [[paper]](https://arxiv.org/pdf/2303.13835.pdf).[[code]](https://github.com/westlake-repl/IDvs.MoRec)
 + Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.11700.pdf).
