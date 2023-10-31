@@ -42,6 +42,10 @@ Welcome to open an issue or make a pull request!
 + Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09874).
 + Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.01026).
 + LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [[paper]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf), [[code]](https://github.com/Yueeeeeeee/LlamaRec).
++ Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, Recsys 2023, [[paper]](https://arxiv.org/abs/2307.14225).
++ CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.19488).
+
+
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
