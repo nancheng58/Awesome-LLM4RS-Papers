@@ -60,8 +60,9 @@ Welcome to open an issue or make a pull request!
 + Towards Universal Sequence Representation Learning for Recommender Systems, KDD 2022, [[paper]](https://arxiv.org/abs/2206.05941),[[code]](https://github.com/RUCAIBox/UniSRec).
 + TransRec: learning transferable recommendation from mixture-of-modality feedback, arxiv 2022, [[paper]](https://arxiv.org/abs/2206.06190).
 + Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [[paper]](https://arxiv.org/abs/2210.12316),[[code]](https://github.com/RUCAIBox/VQ-Rec).
-+ One4all User Representation for Recommender Systems in E-commerce, arvix 2021, [[paper]](https://arxiv.org/abs/2106.00573).
++ One4all User Representation for Recommender Systems in E-commerce, arvix 2023, [[paper]](https://arxiv.org/abs/2106.00573).
 + Text Is All You Need: Learning Language Representations for Sequential Recommendation, KDD 2023, [[paper]](https://arxiv.org/abs/2305.13731).
++ Collaborative Large Language Model for Recommender Systems, arvix 2023, [[paper]](https://arxiv.org/pdf/2311.01343.pdf),[[code]](https://github.com/yaochenzhu/llm4rec)..
   
 ## Generative Retrieval
 + Recommender Systems with Generative Retrieval, arvix 2023, [[paper]](https://arxiv.org/abs/2305.05065).
