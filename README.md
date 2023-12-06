@@ -13,16 +13,14 @@ Welcome to open an issue or make a pull request!
 ## Paper List
 + Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System, arxiv 2023, [[paper]](https://arxiv.org/abs/2303.14524).
 + GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03879).
-+ TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023, [[paper]](https://arxiv.org/abs/2305.00447), [[code]](https://github.com/SAI990323/TALLRec).
++ TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation, RecSys 2023 Short Paper, [[paper]](https://arxiv.org/abs/2305.00447), [[code]](https://github.com/SAI990323/TALLRec).
 + Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.05973).
-+ Uncovering ChatGPT's Capabilities in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.02182),[[code]](https://github.com/rainym00d/LLM4RS).
 + Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07001).
 + A First Look at LLM-Powered Generative News Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.06566).
 + Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.04518).
 + Zero-Shot Next-Item Recommendation using Large Pretrained Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.03153), [[code]](https://github.com/AGI-Edgerunners/LLM-Next-Item-Rec).
 + Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.06474).
 + Large Language Models are Zero-Shot Rankers for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.08845), [[code]](https://github.com/RUCAIBox/LLMRank).
-+ Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07609), [[code]](https://github.com/jizhi-zhang/FaiRLLM).
 + Leveraging Large Language Models in Conversational Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07961).
 + Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.13112), [[code]](https://github.com/RUCAIBox/iEvaLM-CRS).
 + PALR: Personalization Aware LLMs for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.07622).
@@ -32,7 +30,6 @@ Welcome to open an issue or make a pull request!
 + GenRec: Large Language Model for Generative Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.00457).
 + Generative Job Recommendations with Large Language Model, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02157).
 + Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.05722).
-+ Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, RecSys 2023, [[paper]](https://arxiv.org/abs/2307.14225).
 + LLM-Rec: Personalized Recommendation via Prompting Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2307.15780).
 + A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.08434).
 + LLMRec: Benchmarking Large Language Models on Recommendation Task, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.12241),[[code]](https://github.com/williamliujl/LLMRec).
@@ -44,8 +41,9 @@ Welcome to open an issue or make a pull request!
 + LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, arxiv 2023, [[paper]](https://github.com/Yueeeeeeee/LlamaRec/blob/main/media/paper.pdf), [[code]](https://github.com/Yueeeeeeee/LlamaRec).
 + Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, Recsys 2023, [[paper]](https://arxiv.org/abs/2307.14225).
 + CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.19488).
-
-
++ Large Language Model Augmented Narrative Driven Recommendations, RecSys 2023 Short Paper, [[paper]](https://arxiv.org/abs/2306.02250).
++ Leveraging Large Language Models for Sequential Recommendation, RecSys 2023 LBR, [[paper]](https://arxiv.org/abs/2309.09261), [[code]](https://github.com/dh-r/LLM-Sequential-Recommendation).
++ ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models, WSDM 2024, [[paper]](https://arxiv.org/abs/2305.06566), [[code]](https://github.com/Jyonn/ONCE).
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
@@ -56,7 +54,7 @@ Welcome to open an issue or make a pull request!
 ### Knowledge Augmentation
 + Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.10835). 
 + Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10933).
-+ LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024 Oral, [[paper]](https://arxiv.org/abs/2311.00423), [[code]](https://github.com/HKUDS/LLMRec), [[blog in Chinese]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg).
++ LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [[paper]](https://arxiv.org/abs/2311.00423), [[code]](https://github.com/HKUDS/LLMRec), [[blog in Chinese]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg).
 
 
 ### Perspective
@@ -67,6 +65,11 @@ Welcome to open an issue or make a pull request!
 + Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.15036).
 + Is ChatGPT a Good Recommender? A Preliminary Study, arxiv 2023, [[paper]](https://arxiv.org/abs/2304.10149).
 + Evaluating ChatGPT as a Recommender System: A Rigorous Approach, arxiv 2023, [[paper]](https://arxiv.org/abs/2309.03613).
++ Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences, RecSys 2023 Short Paper, [[paper]](https://arxiv.org/abs/2307.14225).
++ Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, RecSys 2023 Short Paper, [[paper]](https://arxiv.org/abs/2305.07609), [[code]](https://github.com/jizhi-zhang/FaiRLLM).
++ Uncovering ChatGPT's Capabilities in Recommender Systems, RecSys 2023 LBR, [[paper]](https://arxiv.org/abs/2305.02182),[[code]](https://github.com/rainym00d/LLM4RS).
+  
+
 ## Universal Representation Learning
 **Github Repository: "Universal_user_representations for recommendation" [[link]](https://github.com/fajieyuan/universal_user_representation)**.
 + Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020, [[paper]](https://arxiv.org/abs/2001.04253). [[code]](https://github.com/fajieyuan/SIGIR2020_peterrec)
