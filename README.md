@@ -49,7 +49,7 @@ Welcome to open an issue or make a pull request!
 + E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2312.02443), [[code]](https://github.com/HestiaSky/E4SRec/).
 + Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2311.09049), [[code]](https://github.com/RUCAIBox/LC-Rec/).
 + Representation Learning with Large Language Models for Recommendation, WWW 2024, [[paper]](https://arxiv.org/abs/2310.15950), [[code]](https://github.com/HKUDS/RLMRec).
-
++ Stealthy Attack on Large Language Model based Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2402.14836).
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
