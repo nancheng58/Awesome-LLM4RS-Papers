@@ -102,4 +102,5 @@ Welcome to open an issue or make a pull request!
 ## Dataset
 + Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation, arvix 2023, [[paper]](https://arxiv.org/abs/2307.09688), [[KDD Cup 2023]](https://kddcup23.github.io/).
 + PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [[paper]](https://arxiv.org/abs/2309.06789), [[link]](https://github.com/westlake-repl/PixelRec).
-
++ NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [[paper]](https://arxiv.org/abs/2309.07705), [[link]](https://github.com/westlake-repl/NineRec).
++ A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [[paper]](https://arxiv.org/abs/2309.15379), [[link]](https://github.com/westlake-repl/MicroLens).
