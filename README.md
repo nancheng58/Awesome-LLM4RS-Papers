@@ -51,6 +51,10 @@ Welcome to open an issue or make a pull request!
 + Representation Learning with Large Language Models for Recommendation, WWW 2024, [[paper]](https://arxiv.org/abs/2310.15950), [[code]](https://github.com/HKUDS/RLMRec).
 + Stealthy Attack on Large Language Model based Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2402.14836).
 
+
+
+
+
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
