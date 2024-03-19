@@ -50,6 +50,10 @@ Welcome to open an issue or make a pull request!
 + Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2311.09049), [[code]](https://github.com/RUCAIBox/LC-Rec/).
 + Representation Learning with Large Language Models for Recommendation, WWW 2024, [[paper]](https://arxiv.org/abs/2310.15950), [[code]](https://github.com/HKUDS/RLMRec).
 + Stealthy Attack on Large Language Model based Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2402.14836).
++ ReLLa: Retrieval-enhanced Large Language Models for Lifelong
+ Sequential Behavior Comprehension in Recommendation
+[[paper]](https://arxiv.org/abs/2308.11131) [[code]](https://github.com/LaVieEnRose365/ReLLa)
+
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
