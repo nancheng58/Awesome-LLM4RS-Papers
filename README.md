@@ -53,8 +53,11 @@ Welcome to open an issue or make a pull request!
 + ReLLa: Retrieval-enhanced Large Language Models for Lifelong
  Sequential Behavior Comprehension in Recommendation
 [[paper]](https://arxiv.org/abs/2308.11131) [[code]](https://github.com/LaVieEnRose365/ReLLa)
-
-
++ Wukong: Towards a Scaling Law for Large-Scale Recommendation[[paper]](https://arxiv.org/abs/2403.02545)
++ A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation [[paper]]((http://arxiv.org/abs/2403.13574))[[code]](https://github.com/RUCAIBox/LSVCR/)
++ Harnessing Large Language Models for Text-Rich Sequential Recommendation [[paper]](http://arxiv.org/abs/2403.13325)  
++ Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations[[paper]](https://arxiv.org/abs/2307.05722)[[code]](https://github.com/WLiK/GLRe)
++ LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs[[paper]](https://arxiv.org/abs/2308.10835)  
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
