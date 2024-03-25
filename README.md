@@ -39,6 +39,8 @@ Welcome to open an issue or make a pull request!
 + Text Is All You Need: Learning Language Representations for Sequential Recommendation, KDD 2023, [[paper]](https://arxiv.org/abs/2305.13731).
 
 ## Generative Retrieval
++ A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [[paper]](https://arxiv.org/pdf/1808.05163.pdf)  [[code]](https://github.com/fajieyuan/WSDM2019-nextitnet)
++ Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020/04, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
 + Recommender Systems with Generative Retrieval, arvix 2023, [[paper]](https://arxiv.org/abs/2305.05065).
 
 ## Pretrain Language Model and Prompt Learing
