@@ -99,6 +99,8 @@ Welcome to open an issue or make a pull request!
 + Collaborative Large Language Model for Recommender Systems, arvix 2023, [[paper]](https://arxiv.org/abs/2311.01343),[[code]](https://github.com/yaochenzhu/llm4rec).
   
 ## Generative Retrieval
++ A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [[paper]](https://arxiv.org/pdf/1808.05163.pdf)  [[code]](https://github.com/fajieyuan/WSDM2019-nextitnet)
++ Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020/04, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
 + Recommender Systems with Generative Retrieval, arvix 2023, [[paper]](https://arxiv.org/abs/2305.05065).
 + Generative Sequential Recommendation with GPTRec, SIGIR 2023 workshop, [[paper]](https://arxiv.org/abs/2306.11114).
 
