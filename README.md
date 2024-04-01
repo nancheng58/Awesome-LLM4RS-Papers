@@ -60,6 +60,9 @@ Welcome to open an issue or make a pull request!
 + LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs[[paper]](https://arxiv.org/abs/2308.10835)
 + Enhancing Job Recommendation through LLM-based Generative Adversarial Networks, AAAI 2024, [[paper]](https://arxiv.org/abs/2307.10747).
 + LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2401.08217).
++ Sequential Recommendation with Latent Relations based on Large Language Model[[paper]](https://arxiv.org/abs/2403.18348)[[code]](https://github.com/ysh-1998/lrd)
++ Common Sense Enhanced Knowledge-based Recommendation with Large Language Model[[paper]](https://arxiv.org/abs/2403.18325)[[code]](https://github.com/ysh-1998/csrec)
++ Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation[[paper]](https://arxiv.org/abs/2403.16427)
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
