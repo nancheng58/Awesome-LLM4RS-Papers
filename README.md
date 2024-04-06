@@ -65,7 +65,7 @@ Welcome to open an issue or make a pull request!
 + Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation[[paper]](https://arxiv.org/abs/2403.16427)
 + Enhancing Content-based Recommendation via Large Language Model,arxiv 2024[[paper]](https://arxiv.org/abs/2404.00236)
 + Aligning Large Language Models with Recommendation Knowledge,arxiv 2024[[paper]](https://arxiv.org/abs/2404.00245)
-+ + Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation[[paper]](https://arxiv.org/abs/2404.01855)
++ Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation[[paper]](https://arxiv.org/abs/2404.01855)
 
 
 ### Agent4Rec
