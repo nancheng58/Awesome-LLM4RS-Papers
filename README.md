@@ -63,12 +63,18 @@ Welcome to open an issue or make a pull request!
 + Sequential Recommendation with Latent Relations based on Large Language Model[[paper]](https://arxiv.org/abs/2403.18348)[[code]](https://github.com/ysh-1998/lrd)
 + Common Sense Enhanced Knowledge-based Recommendation with Large Language Model[[paper]](https://arxiv.org/abs/2403.18325)[[code]](https://github.com/ysh-1998/csrec)
 + Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation[[paper]](https://arxiv.org/abs/2403.16427)
++ Enhancing Content-based Recommendation via Large Language Model,arxiv 2024[[paper]](https://arxiv.org/abs/2404.00236)
++ Aligning Large Language Models with Recommendation Knowledge,arxiv 2024[[paper]](https://arxiv.org/abs/2404.00245)
++ Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation[[paper]](https://arxiv.org/abs/2404.01855)
+
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
 + On Generative Agents in Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.10108), [[code]](https://github.com/LehengTHU/Agent4Rec).
 + AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09233).
++ Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations[[link]](https://arxiv.org/pdf/2308.16505.pdf)
+
 
 ### Knowledge Augmentation
 + Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.10835). 
@@ -119,3 +125,4 @@ Welcome to open an issue or make a pull request!
 + PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [[paper]](https://arxiv.org/abs/2309.06789), [[link]](https://github.com/westlake-repl/PixelRec).
 + NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [[paper]](https://arxiv.org/abs/2309.07705), [[link]](https://github.com/westlake-repl/NineRec).
 + A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [[paper]](https://arxiv.org/abs/2309.15379), [[link]](https://github.com/westlake-repl/MicroLens).
++ EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation, arxiv, 2024[[paper]](https://arxiv.org/abs/2404.01008)[[link]](https://anonymous.4open.science/r/Z-SV-CFB1)
