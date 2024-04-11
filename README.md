@@ -72,6 +72,7 @@ Welcome to open an issue or make a pull request!
 + On Generative Agents in Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.10108), [[code]](https://github.com/LehengTHU/Agent4Rec).
 + AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09233).
 + Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations [[link]](https://arxiv.org/pdf/2308.16505.pdf)
++ Lending Interaction Wings to Recommender Systems with Conversational Agents, NeurIPS 2023, [[paper]](https://arxiv.org/abs/2310.04230).
 
 
 ### Knowledge Augmentation
@@ -124,3 +125,4 @@ Welcome to open an issue or make a pull request!
 + NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [[paper]](https://arxiv.org/abs/2309.07705), [[link]](https://github.com/westlake-repl/NineRec).
 + A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [[paper]](https://arxiv.org/abs/2309.15379), [[link]](https://github.com/westlake-repl/MicroLens).
 + EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation, arxiv, 2024[[paper]](https://arxiv.org/abs/2404.01008)[[link]](https://anonymous.4open.science/r/Z-SV-CFB1)
++ MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation, SIGIR 2024, [[paper]](https://arxiv.org/abs/2403.17876), [[link]](https://github.com/andreeaiana/xMIND).
