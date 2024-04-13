@@ -58,7 +58,7 @@ Welcome to open an issue or make a pull request!
 + LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs, arxiv 2024, [[paper]](https://arxiv.org/abs/2308.10835)
 + Enhancing Job Recommendation through LLM-based Generative Adversarial Networks, AAAI 2024, [[paper]](https://arxiv.org/abs/2307.10747).
 + LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2401.08217).
-+ Sequential Recommendation with Latent Relations based on Large Language Model, arxiv 2024, [[paper]](https://arxiv.org/abs/2403.18348)[[code]](https://github.com/ysh-1998/lrd)
++ Sequential Recommendation with Latent Relations based on Large Language Model, SIGIR 2024, [[paper]](https://arxiv.org/abs/2403.18348), [[code]](https://github.com/ysh-1998/lrd).
 + Common Sense Enhanced Knowledge-based Recommendation with Large Language Model, arxiv 2024, [[paper]](https://arxiv.org/abs/2403.18325)[[code]](https://github.com/ysh-1998/csrec)
 + Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2403.16427)
 + Enhancing Content-based Recommendation via Large Language Model, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.00236)
@@ -72,11 +72,12 @@ Welcome to open an issue or make a pull request!
 + On Generative Agents in Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.10108), [[code]](https://github.com/LehengTHU/Agent4Rec).
 + AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09233).
 + Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations [[link]](https://arxiv.org/pdf/2308.16505.pdf)
++ Lending Interaction Wings to Recommender Systems with Conversational Agents, NeurIPS 2023, [[paper]](https://arxiv.org/abs/2310.04230).
 
 
 ### Knowledge Augmentation
 + Enhancing Recommender Systems with Large Language Model Reasoning Graphs, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.10835). 
-+ Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10933).
++ Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.10933), [[code]](https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation).
 + LLMRec: Large Language Models with Graph Augmentation for Recommendation, WSDM 2024, [[paper]](https://arxiv.org/abs/2311.00423), [[code]](https://github.com/HKUDS/LLMRec), [[blog in Chinese]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg).
 
 
@@ -124,3 +125,4 @@ Welcome to open an issue or make a pull request!
 + NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [[paper]](https://arxiv.org/abs/2309.07705), [[link]](https://github.com/westlake-repl/NineRec).
 + A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [[paper]](https://arxiv.org/abs/2309.15379), [[link]](https://github.com/westlake-repl/MicroLens).
 + EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation, arxiv, 2024[[paper]](https://arxiv.org/abs/2404.01008)[[link]](https://anonymous.4open.science/r/Z-SV-CFB1)
++ MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation, SIGIR 2024, [[paper]](https://arxiv.org/abs/2403.17876), [[link]](https://github.com/andreeaiana/xMIND).
