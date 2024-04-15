@@ -64,6 +64,8 @@ Welcome to open an issue or make a pull request!
 + Enhancing Content-based Recommendation via Large Language Model, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.00236)
 + Aligning Large Language Models with Recommendation Knowledge, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.00245)
 + Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.01855)
++ DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.06311).
+
 
 
 ### Agent4Rec
@@ -72,7 +74,10 @@ Welcome to open an issue or make a pull request!
 + On Generative Agents in Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.10108), [[code]](https://github.com/LehengTHU/Agent4Rec).
 + AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2310.09233).
 + Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations [[link]](https://arxiv.org/pdf/2308.16505.pdf)
++ Balancing Information Perception with Yin-Yang: Agent-Based Information Neutrality Model for Recommendation Systems, arxiv 2024, [[paper]](http://arxiv.org/abs/2404.04906)
 + Lending Interaction Wings to Recommender Systems with Conversational Agents, NeurIPS 2023, [[paper]](https://arxiv.org/abs/2310.04230).
++ A Conceptual Framework for Conversational Search and Recommendation: Conceptualizing Agent-Human Interactions During the Conversational Search Process, arxiv 2024, [[paper]](http://arxiv.org/abs/2404.08630).
+
 
 
 ### Knowledge Augmentation
@@ -119,10 +124,14 @@ Welcome to open an issue or make a pull request!
 + M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems, arvix 2022, [[paper]](https://arxiv.org/abs/2205.08084).
 + Personalized Prompt for Sequential Recommendation, arvix 2022, [[paper]](https://arxiv.org/abs/2205.09666).
 + Knowledge Prompt-tuning for Sequential Recommendation, ACM MM 2023, [[paper]](https://arxiv.org/abs/2308.08459), [[code]](https://github.com/zhaijianyang/KP4SR).
+
+
 ## Dataset
 + Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation, arvix 2023, [[paper]](https://arxiv.org/abs/2307.09688), [[KDD Cup 2023]](https://kddcup23.github.io/).
 + PixelRec: An Image Dataset for Benchmarking Recommender Systems with Raw Pixels, arvix 2023, [[paper]](https://arxiv.org/abs/2309.06789), [[link]](https://github.com/westlake-repl/PixelRec).
 + NineRec: A Benchmark Dataset Suite for Evaluating Transferable Recommendation, arvix 2023, [[paper]](https://arxiv.org/abs/2309.07705), [[link]](https://github.com/westlake-repl/NineRec).
 + A Content-Driven Micro-Video Recommendation Dataset at Scale, arvix 2023, [[paper]](https://arxiv.org/abs/2309.15379), [[link]](https://github.com/westlake-repl/MicroLens).
 + EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation, arxiv, 2024[[paper]](https://arxiv.org/abs/2404.01008)[[link]](https://anonymous.4open.science/r/Z-SV-CFB1)
++ MealRec : A Meal Recommendation Dataset with Meal-Course Affiliation for Personalization and Healthiness, arxiv 2024, [[paper]](http://arxiv.org/abs/2404.05386).
 + MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation, SIGIR 2024, [[paper]](https://arxiv.org/abs/2403.17876), [[link]](https://github.com/andreeaiana/xMIND).
+
