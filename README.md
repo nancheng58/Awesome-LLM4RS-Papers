@@ -67,6 +67,7 @@ Welcome to open an issue or make a pull request!
 + DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.06311).
 + Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems, SIGIR 2024, [[paper]](http://arxiv.org/abs/2404.11773), [[code]](https://github.com/dayuyang1999/Behavior-Alignment)
 + Exact and Efficient Unlearning for Large Language Model-based Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2404.10327)
++  RecGPT: Generative Personalized Prompts for Sequential Recommendation  via ChatGPT Training Paradigm, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.08675)
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
