@@ -65,6 +65,7 @@ Welcome to open an issue or make a pull request!
 + Aligning Large Language Models with Recommendation Knowledge, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.00245)
 + Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.01855)
 + DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.06311).
+<<<<<<< HEAD
 + Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems, SIGIR 2024, [[paper]](http://arxiv.org/abs/2404.11773), [[code]](https://github.com/dayuyang1999/Behavior-Alignment).
 + Exact and Efficient Unlearning for Large Language Model-based Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2404.10327).
 + Large Language Models for Intent-Driven Session Recommendations, SIGIR 24, [[paper]](https://arxiv.org/pdf/2312.07552).
@@ -74,6 +75,12 @@ Welcome to open an issue or make a pull request!
 + Data-efficient Fine-tuning for LLM-based Recommendation, SIGIR 24, [[paper]](https://arxiv.org/pdf/2401.17197).
 + Towards LLM-RecSys Alignment with Textual ID Learning , SIGIR 24, [[paper]](https://arxiv.org/pdf/2403.19021).
 + Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors, SIGIR 24, [[paper]](https://arxiv.org/pdf/2403.19347).
+=======
++ Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems, SIGIR 2024, [[paper]](http://arxiv.org/abs/2404.11773), [[code]](https://github.com/dayuyang1999/Behavior-Alignment)
++ Exact and Efficient Unlearning for Large Language Model-based Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2404.10327)
++  RecGPT: Generative Personalized Prompts for Sequential Recommendation  via ChatGPT Training Paradigm, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.08675)
+
+>>>>>>> upstream/main
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2308.14296).
