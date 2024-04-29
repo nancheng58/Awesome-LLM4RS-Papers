@@ -74,8 +74,6 @@ Welcome to open an issue or make a pull request!
 + Data-efficient Fine-tuning for LLM-based Recommendation, SIGIR 24, [[paper]](https://arxiv.org/pdf/2401.17197).
 + Towards LLM-RecSys Alignment with Textual ID Learning , SIGIR 24, [[paper]](https://arxiv.org/pdf/2403.19021).
 + Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors, SIGIR 24, [[paper]](https://arxiv.org/pdf/2403.19347).
-+ Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems, SIGIR 2024, [[paper]](http://arxiv.org/abs/2404.11773), [[code]](https://github.com/dayuyang1999/Behavior-Alignment)
-+ Exact and Efficient Unlearning for Large Language Model-based Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2404.10327)
 +  RecGPT: Generative Personalized Prompts for Sequential Recommendation  via ChatGPT Training Paradigm, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.08675)
 
 
