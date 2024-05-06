@@ -75,7 +75,10 @@ Welcome to open an issue or make a pull request!
 + Towards LLM-RecSys Alignment with Textual ID Learning , SIGIR 24, [[paper]](https://arxiv.org/pdf/2403.19021).
 + Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors, SIGIR 24, [[paper]](https://arxiv.org/pdf/2403.19347).
 +  RecGPT: Generative Personalized Prompts for Sequential Recommendation  via ChatGPT Training Paradigm, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.08675)
-
++ Efficient and Responsible Adaptation of Large Language Models for Robust  Top-k Recommendations, arxiv 2024, [[paper]](https://arxiv.org/pdf/2405.00824).
++ Large Language Models for Next Point-of-Interest Recommendation, arxiv 2024, [[paper]](https://arxiv.org/pdf/2404.17591).
++ Distillation Matters: Empowering Sequential Recommenders to Match the Performance of Large Language Model, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.00338).
++ Large Language Models as Conversational Movie Recommenders: A User Study, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.19093).
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
