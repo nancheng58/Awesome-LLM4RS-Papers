@@ -80,6 +80,7 @@ Welcome to open an issue or make a pull request!
 + Distillation Matters: Empowering Sequential Recommenders to Match the Performance of Large Language Model, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.00338).
 + Large Language Models as Conversational Movie Recommenders: A User Study, arxiv 2024, [[paper]](https://arxiv.org/abs/2404.19093).
 + CALRec: Contrastive Alignment of Generative LLMs for Sequential Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2405.02429).
++ Fine-Tuning Large Language Model Based Explainable Recommendation with Explainable Quality Reward,  AAAI 2024, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28777).
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
