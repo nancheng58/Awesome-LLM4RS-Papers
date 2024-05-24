@@ -131,6 +131,7 @@ Welcome to open an issue or make a pull request!
 + Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation, WWW 2020/04, [[paper]](https://arxiv.org/pdf/1906.04473.pdf)  [[code]](https://github.com/fajieyuan/WWW2020-grec)
 + Recommender Systems with Generative Retrieval, arvix 2023, [[paper]](https://arxiv.org/abs/2305.05065).
 + Generative Sequential Recommendation with GPTRec, SIGIR 2023 workshop, [[paper]](https://arxiv.org/abs/2306.11114).
++ Enhanced Generative Recommendation via Content and Collaboration Integration, arvix 2024, [[paper]](https://arxiv.org/abs/2403.18480).
 
 ## Pretrain Language Model and Prompt Learning
 **Survey paper: Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2023, [[paper]](https://arxiv.org/abs/2302.03735).**
