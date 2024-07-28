@@ -83,6 +83,26 @@ Welcome to open an issue or make a pull request!
 + Fine-Tuning Large Language Model Based Explainable Recommendation with Explainable Quality Reward,  AAAI 2024, [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28777).
 + Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph, arxiv 2024, [[paper]](https://arxiv.org/abs/2402.13750).
 + RDRec: Rationale Distillation for LLM-based Recommendation, ACL 2024 Main (short), [[paper]](https://arxiv.org/pdf/2405.10587), [[code]](https://github.com/WangXFng/RDRec).
++ Reinforced Prompt Personalization for Recommendation with Large Language Models, arxiv 2024, [[paper]](http://arxiv.org/abs/2407.17115), [[code]](https://github.com/maowenyu-11/rpp)
++ Semantic Understanding and Data Imputation using Large Language Model to Accelerate Recommendation System, arxiv 2024, [[paper]](http://arxiv.org/abs/2407.10078)
++ A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations, arxiv 2024, [[paper]](http://arxiv.org/abs/2407.04069)
++ LANE: Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation, arxiv 2024, [[paper]](http://arxiv.org/abs/2407.02833)
++ Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning, arxiv 2024, [[paper]](http://arxiv.org/abs/2406.14169)
++ "You Gotta be a Doctor, Lin": An Investigation of Name-Based Bias of Large Language Models in Employment Recommendations, arxiv 2024, [[paper]](http://arxiv.org/abs/2406.12232)
++ Multi-Layer Ranking with Large Language Models for News Source Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2406.11745)
++ Large Language Models as Evaluators for Recommendation Explanations, arxiv 2024, [[paper]](http://arxiv.org/abs/2406.03248)
++ Text-like Encoding of Collaborative Information in Large Language Models for Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2406.03210)
++ Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2406.03085)
++ XRec: Large Language Models for Explainable Recommendation, arxiv 2024, [[paper]](XRec: Large Language Models for Explainable Recommendation), [[code]](https://github.com/hkuds/xrec)
++ Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.20646), [[code]](https://github.com/liuqidong07/LLM-ESR)
++ Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.19612)
++ News Recommendation with Category Description by a Large Language Model, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.13007)
++ Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.12442)
++ Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.12119)
++ EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.11441)
++ DynLLM: When Large Language Models Meet Dynamic Graph Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.07580)
++ Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.05060)
++ OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [[paper]](https://arxiv.org/pdf/2310.09233), [[code]](https://github.com/agiresearch/OpenP5)
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
