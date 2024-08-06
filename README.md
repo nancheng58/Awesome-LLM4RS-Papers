@@ -6,6 +6,7 @@ This is a paper list about Large Language Model-enhanced Recommender System. It 
 Welcome to open an issue or make a pull request!
 
 ## Survey
++ Exploring the Impact of Large Language Models on Recommender Systems: An Extensive Review, arxiv 2024, [[paper]](https://arxiv.org/pdf/2402.18590).
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/abs/2305.19860).
 + How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.05817).
 + Recommender Systems in the Era of Large Language Models (LLMs), arxiv 2023, [[paper]](https://arxiv.org/abs/2307.02046).
