@@ -104,6 +104,7 @@ Welcome to open an issue or make a pull request!
 + DynLLM: When Large Language Models Meet Dynamic Graph Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.07580)
 + Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models, arxiv 2024, [[paper]](http://arxiv.org/abs/2405.05060)
 + OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems, Sigir 2024, [[paper]](https://arxiv.org/pdf/2310.09233), [[code]](https://github.com/agiresearch/OpenP5)
++ Item-Language Model for Conversational Recommendation, arxiv 2024, [[paper]](https://arxiv.org/abs/2406.02844)
 
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/abs/2306.02552).
