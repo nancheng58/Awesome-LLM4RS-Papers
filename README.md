@@ -117,9 +117,9 @@ Welcome to open an issue or make a pull request!
 + Learn by Selling: Equipping Large Language Models with Product Knowledge for Context-Driven Recommendations, arxiv 2024, [[paper]](http://arxiv.org/pdf/2407.20856)
 + Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation, arxiv 2024, [[paper]](http://arxiv.org/pdf/2407.19643)
 + Reinforced Prompt Personalization for Recommendation with Large Language Models, arxiv 2024, [[paper]](http://arxiv.org/pdf/2407.17115)
-+ Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, arxiv 2024, [[paper]](http://arxiv.org/pdf/2404.11343).
++ Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [[paper]](http://arxiv.org/pdf/2404.11343).
 + Item-Language Model for Conversational Recommendation, arxiv 2024, [[paper]](https://arxiv.org/pdf/2406.02844)
-
++ A-LLMRec: Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System, KDD 2024, [[paper]](https://arxiv.org/pdf/2406.02844), [[code]](https://github.com/ghdtjr/A-LLMRec)
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/pdf/2306.02552).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/pdf/2308.14296).
