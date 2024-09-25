@@ -1,4 +1,10 @@
-# Awesome-LLM4RS-Papers
+<div align="center">
+    <h1>Awesome LLM4RS Papers</h1>
+    <a href="https://awesome.re">
+        <img src="https://awesome.re/badge.svg"/>
+    </a>
+</div>
+
 This is a paper list about Large Language Model-enhanced Recommender System. It also contains some related works.
 
 **Keywords**: *recommendation system, large language models*
