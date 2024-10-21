@@ -149,6 +149,7 @@ Welcome to open an issue or make a pull request!
 + Large Language Model Empowered Embedding Generator for Sequential Recommendation, arxiv 2024, [paper](http://arxiv.org/abs/2409.19925), [[code]](https://github.com/liuqidong07/LLMEmb)
 + Cognitive Biases in Large Language Models for News Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2410.02897)
 + Efficient Inference for Large Language Model-based Generative Recommendation, arxiv 2024, [[paper]](http://arxiv.org/abs/2410.05165)
++ TTT4Rec: A Test-Time Training Approach for Rapid Adaption in Sequential Recommendation,arxiv 2024, [[paper]](https://arxiv.org/abs/2409.19142)
   
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/pdf/2306.02552).
