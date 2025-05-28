@@ -153,6 +153,7 @@ Welcome to open an issue or make a pull request!
 + Balancing Information Perception with Yin-Yang: Agent-Based Information Neutrality Model for Recommendation Systems, arxiv 2024, [[paper]](http://arxiv.org/pdf/2404.04906)
 + Lending Interaction Wings to Recommender Systems with Conversational Agents, NeurIPS 2023, [[paper]](https://arxiv.org/pdf/2310.04230).
 + A Conceptual Framework for Conversational Search and Recommendation: Conceptualizing Agent-Human Interactions During the Conversational Search Process, arxiv 2024, [[paper]](http://arxiv.org/pdf/2404.08630).
++ User Behavior Simulation with Large Language Model-based Agents，arxiv 2024, [[paper]](https://arxiv.org/pdf/2306.02552).
 
 
 ### Knowledge Augmentation
