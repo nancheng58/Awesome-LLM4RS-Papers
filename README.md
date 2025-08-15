@@ -140,10 +140,14 @@ Welcome to open an issue or make a pull request!
 + HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling, arxiv 2024, [[paper]](http://arxiv.org/pdf/2409.12740)
 + Enhancing Performance and Scalability of Large-Scale Recommendation Systems with Jagged Flash Attention, arxiv 2024, [[paper]](http://arxiv.org/pdf/2409.15373)
 + A Prompting-Based Representation Learning Method for Recommendation with Large Language Models, arxiv 2024, [[paper]](http://arxiv.org/pdf/2409.16674)
-+ Large Language Model Empowered Embedding Generator for Sequential Recommendation, arxiv 2024, [paper](http://arxiv.org/pdf/2409.19925), [[code]](https://github.com/liuqidong07/LLMEmb)
++ Large Language Model Empowered Embedding Generator for Sequential Recommendation, arxiv 2024, [[paper]](http://arxiv.org/pdf/2409.19925), [[code]](https://github.com/liuqidong07/LLMEmb)
 + Cognitive Biases in Large Language Models for News Recommendation, arxiv 2024, [[paper]](http://arxiv.org/pdf/2410.02897)
 + Efficient Inference for Large Language Model-based Generative Recommendation, arxiv 2024, [[paper]](http://arxiv.org/pdf/2410.05165)
-  
++ RecGPT Technical Report, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.22879)
++ VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.17080)
++ Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.17290)
++ Large Language Model-Enhanced Reinforcement Learning for Diverse and Novel Recommendations, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.21274)
+
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/pdf/2306.02552).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/pdf/2308.14296).
