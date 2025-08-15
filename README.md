@@ -140,10 +140,15 @@ Welcome to open an issue or make a pull request!
 + HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling, arxiv 2024, [[paper]](http://arxiv.org/pdf/2409.12740)
 + Enhancing Performance and Scalability of Large-Scale Recommendation Systems with Jagged Flash Attention, arxiv 2024, [[paper]](http://arxiv.org/pdf/2409.15373)
 + A Prompting-Based Representation Learning Method for Recommendation with Large Language Models, arxiv 2024, [[paper]](http://arxiv.org/pdf/2409.16674)
-+ Large Language Model Empowered Embedding Generator for Sequential Recommendation, arxiv 2024, [paper](http://arxiv.org/pdf/2409.19925), [[code]](https://github.com/liuqidong07/LLMEmb)
++ Large Language Model Empowered Embedding Generator for Sequential Recommendation, arxiv 2024, [[paper]](http://arxiv.org/pdf/2409.19925), [[code]](https://github.com/liuqidong07/LLMEmb)
 + Cognitive Biases in Large Language Models for News Recommendation, arxiv 2024, [[paper]](http://arxiv.org/pdf/2410.02897)
 + Efficient Inference for Large Language Model-based Generative Recommendation, arxiv 2024, [[paper]](http://arxiv.org/pdf/2410.05165)
-  
++ You Don't Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.16829)
++ The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation, arxiv 2025,  [[paper]](https://arxiv.org/abs/2507.18489)
++ VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.17080)
++ Enhancing Transferability and Consistency in Cross-Domain Recommendations via Supervised Disentanglement, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.17112)
++ Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.17749)
+
 ### Agent4Rec
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/pdf/2306.02552).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/pdf/2308.14296).
