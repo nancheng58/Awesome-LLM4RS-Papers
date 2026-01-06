@@ -149,7 +149,7 @@ Welcome to open an issue or make a pull request!
 + Large Language Model-Enhanced Reinforcement Learning for Diverse and Novel Recommendations, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.21274)
 
 ### Agent4Rec
-+ AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation, arxiv 2026, [[paper]](https://arxiv.org/abs/2601.00930).
++ AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation, arxiv 2026, [[paper]](https://arxiv.org/pdf/2601.00930).
 + When Large Language Model based Agent Meets User Behavior Analysis: A Novel User Simulation Paradigm, arxiv 2023, [[paper]](https://arxiv.org/pdf/2306.02552).
 + RecMind: Large Language Model Powered Agent For Recommendation, arxiv 2023, [[paper]](https://arxiv.org/pdf/2308.14296).
 + On Generative Agents in Recommendation, arxiv 2023, [[paper]](https://arxiv.org/pdf/2310.10108), [[code]](https://github.com/LehengTHU/Agent4Rec).
