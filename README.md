@@ -16,6 +16,7 @@ Welcome to open an issue or make a pull request!
 + A Survey on Large Language Models for Recommendation, arxiv 2023, [[paper]](https://arxiv.org/pdf/2305.19860).
 + How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [[paper]](https://arxiv.org/pdf/2306.05817).
 + Recommender Systems in the Era of Large Language Models (LLMs), arxiv 2023, [[paper]](https://arxiv.org/pdf/2307.02046).
++ A review of large language models and the recommendation task, Discover Artificial Intelligence (2025), [[paper]](https://link.springer.com/article/10.1007/s44163-025-00334-5).
 
 ## Paper List
 + Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System, arxiv 2023, [[paper]](https://arxiv.org/pdf/2303.14524).
