@@ -149,6 +149,8 @@ Welcome to open an issue or make a pull request!
 + Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.17290)
 + Large Language Model-Enhanced Reinforcement Learning for Diverse and Novel Recommendations, arxiv 2025, [[paper]](https://arxiv.org/abs/2507.21274)
 
++ PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation, EMNLP 2026 Main, [[paper]](https://aclanthology.org/2026.emnlp-main.480/), [[code]](https://github.com/Shengxiang-Lin/PGPO).
+
 ### Agent4Rec
 + AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation, arxiv 2026, [[paper]](https://arxiv.org/pdf/2601.00930).
 + Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems, EMNLP 2025, [[paper]](https://aclanthology.org/2025.emnlp-main.956).
